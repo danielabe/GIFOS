@@ -170,7 +170,7 @@ function search(word) {
             createGifo.classList.remove('img-create-gifo-active')
             searchTitle.classList.remove('none')
             results.classList.remove('none')
-            results.classList.remove('none')
+            trendingGifos.classList.remove('none')
             const min = Math.min(object.data.length, 12)
             createArraySearch(object, min)
             showMore(word)
