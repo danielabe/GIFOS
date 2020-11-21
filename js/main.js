@@ -220,7 +220,7 @@ function renderResult(result, globalContainer) {
     card.alt = result.title
 
     card.classList.add('card-gif')
-    container.classList.add('container') //ver si repito este nombre
+    container.classList.add('container')
 
     container.appendChild(card)
     globalContainer.appendChild(container)
