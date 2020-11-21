@@ -49,7 +49,7 @@
 .show-more {
   border: 1px solid #FFFFFF;
 }
-.show-more:hover {
+.show-more:active {
   color: #000000;
   background-color: #FFFFFF;
 }
@@ -176,6 +176,11 @@
     background-color: #37383C;
   }
 
+  .show-more:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+  }
+  
   .img-create-gifo {
     background-image: url("images/CTA-crear-gifo-modo-noc.svg");
   }
