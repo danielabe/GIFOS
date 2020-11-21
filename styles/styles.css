@@ -482,7 +482,7 @@ a, span {
 .carousel .container {
   width: 64.8vw;
   height: 49.87vw;
-  background-color: #F3F5F8;
+  background-color: #222326;
 }
 .carousel .container .card-gif {
   width: 64.8vw;
@@ -878,18 +878,6 @@ a, span {
     row-gap: 1.94vw;
     column-gap: 2.01vw;
     justify-content: center;
-    /* .fig-fav{
-        bottom: 258px;
-        left: 134px;
-    } */
-    /* .fig-download{
-        bottom: 226px;
-        left: 176px;
-    } */
-    /* .fig-max{
-        bottom: 194px;
-        left: 218px;
-    } */
   }
   .results .container {
     background-color: #572EE5;
@@ -909,21 +897,17 @@ a, span {
   .results .user {
     width: 90%;
     height: 17px;
-    /* bottom: 170px;
-    left: 12px; */
   }
   .results .title {
     width: 90%;
     height: 40px;
-    /* bottom: 168px;
-    left: 13px; */
   }
-  
+
   .show-more:hover {
     color: #FFFFFF;
     background-color: #572EE5;
   }
-  
+
   .icons-gif {
     width: 32px;
     height: 32px;
@@ -991,18 +975,6 @@ a, span {
     row-gap: 1.94vw;
     column-gap: 2.01vw;
     justify-content: center;
-    /* .fig-fav{
-        bottom: 258px;
-        left: 134px;
-    } */
-    /* .fig-download{
-        bottom: 226px;
-        left: 176px;
-    } */
-    /* .fig-max{
-        bottom: 194px;
-        left: 218px;
-    } */
   }
   .favourites .container {
     width: 18.06vw;
@@ -1020,14 +992,10 @@ a, span {
     top: calc(13.89vw - 63px - 1.11vw);
   }
   .favourites .user {
-    /* bottom: 176px;
-    left: 13px; */
     width: 90%;
     margin-bottom: 5px;
   }
   .favourites .title {
-    /* bottom: 170px;
-    left: 13px; */
     width: 90%;
     height: 40px;
     overflow-y: hidden;
@@ -1213,7 +1181,6 @@ a, span {
   }
   .max-gifo .title-max {
     width: calc(48.26vw - 82px);
-    /* top: 596px; */
   }
 
   .close-gifo {
@@ -1249,14 +1216,6 @@ a, span {
     width: auto;
   }
 
-  /* .fig-fav-max{
-      top: 567px;
-      right: 31.32vw;
-  } */
-  /* .fig-download-max{
-      top: 567px;
-      right: 27.36vw;
-  } */
   .container-footer {
     display: flex;
   }
@@ -1286,8 +1245,6 @@ a, span {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* bottom: 194px;
-    left: 134px; */
   }
 
   .fig-fav-active {
@@ -1297,8 +1254,6 @@ a, span {
     opacity: 1;
     border: 1px solid #9CAFC3;
     border-radius: 6px;
-    /* bottom: 258px;
-    left: 134px; */
   }
 
   .img-fav {
@@ -1309,8 +1264,6 @@ a, span {
   .fig-download {
     width: 32px;
     height: 32px;
-    /* bottom: 226px;
-    left: 176px; */
   }
 
   .img-download {
