@@ -294,7 +294,7 @@ a { -webkit-tap-highlight-color: rgba(0,0,0,0); }
   border: 1px solid #572EE5;
   border-radius: 25px;
 }
-.show-more:hover {
+.show-more:active {
   color: #FFFFFF;
   background-color: #572EE5;
 }
@@ -916,7 +916,12 @@ a { -webkit-tap-highlight-color: rgba(0,0,0,0); }
     /* bottom: 168px;
     left: 13px; */
   }
-
+  
+  .show-more:hover {
+    color: #FFFFFF;
+    background-color: #572EE5;
+  }
+  
   .icons-gif {
     width: 32px;
     height: 32px;
