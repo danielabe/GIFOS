@@ -482,6 +482,7 @@ a, span {
 .carousel .container {
   width: 64.8vw;
   height: 49.87vw;
+  background-color: #F3F5F8;
 }
 .carousel .container .card-gif {
   width: 64.8vw;
